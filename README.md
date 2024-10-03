@@ -1,7 +1,7 @@
 MFE List App:
 
 - yarn
-- yarn run buildd
+- yarn run build
 - yarn preview
 
 MFE Main App:
